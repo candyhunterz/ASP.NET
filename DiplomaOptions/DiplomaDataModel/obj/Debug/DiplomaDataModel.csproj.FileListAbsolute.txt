@@ -1,0 +1,89 @@
+C:\Users\Student\Desktop\assignmentOne\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\assignmentOne\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\assignmentOne\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\assignmentOne\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\assignmentOne\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Student\Desktop\New folder\DiplomaOptions\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\carlo\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
